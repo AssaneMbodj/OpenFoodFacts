@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\assan\OneDrive\Documents\GestionProjetsLogiciels - Copie\OpenFoodFacts\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1741549966.index
+3526831154.index
+553683055.index
+2282038854.index
+2960766019.index
+1470082866.index
+1027030386.index

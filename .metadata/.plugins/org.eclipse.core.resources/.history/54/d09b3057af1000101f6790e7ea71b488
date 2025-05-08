@@ -1,0 +1,5 @@
+package fr.esigelec.jee.Model;
+
+public class Produit {
+
+}

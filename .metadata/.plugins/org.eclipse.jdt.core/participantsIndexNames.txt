@@ -1,0 +1,3 @@
+INDEX VERSION 1.134
+C:\Users\assan\OneDrive\Documents\GestionProjetsLogiciels - Copie\OpenFoodFacts\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1741549966.index
+\OFoodFRCD\src\main\java
